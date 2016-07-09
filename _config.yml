@@ -6,9 +6,9 @@ color:
   saturation: 0.9700922968331724
   rhythmicContrast: 0.5011803561355919
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: The Experience is the Brand
